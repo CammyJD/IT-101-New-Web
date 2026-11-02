@@ -3,7 +3,6 @@
 <head>
 	<meta charset="utf-8">
 	<title>test Page</titles>
-	<link rel="stylesheet" href="testpage.css">
 </head>
 <body>
 	<h1>IT Homework #3 JJJ's test website.</h1>
