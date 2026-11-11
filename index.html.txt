@@ -2,8 +2,14 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>test Page</titles>
+<style>
+p {
+  border: 2px solid powderblue;
+  padding: 30px;
+}
+<style>
 </head>
+
 <body>
 	<h1>IT Homework #3 JJJ's test website.</h1>
 	<p>My favorite foods are, curry goat, jerk steak, and cheese fries.</p> I love candy, specifically smarties, airheads, and sweetarts.</p>
